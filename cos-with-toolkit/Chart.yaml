@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: cos-with-toolkit
+description: Chart to configure ArgoCD with the cos-with-toolkit project and its applications

@@ -1,0 +1,3 @@
+global: {}
+cos-with-toolkit:
+  replicaCount: 1
